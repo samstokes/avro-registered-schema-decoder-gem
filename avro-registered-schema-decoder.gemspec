@@ -12,7 +12,7 @@ Confluent Schema Registry
 
   gem.authors = ['Sam Stokes']
   gem.email = %w(me@samstokes.co.uk)
-  gem.homepage = 'https://github.com/samstokes/avro-registered-schema-decoder'
+  gem.homepage = 'https://github.com/samstokes/avro-registered-schema-decoder-gem'
   gem.license = 'MIT'
 
 
